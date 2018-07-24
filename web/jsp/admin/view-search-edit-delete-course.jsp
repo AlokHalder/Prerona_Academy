@@ -2,7 +2,6 @@
 <%@taglib prefix="html" uri="/WEB-INF/struts-html.tld" %>
 <%@taglib  uri="/WEB-INF/struts-logic.tld" prefix="logic" %>
 <%@taglib  uri="/WEB-INF/struts-bean.tld" prefix="bean"%>
-
 <!DOCTYPE html>
 <html>
     <head>
